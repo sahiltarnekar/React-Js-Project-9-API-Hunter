@@ -1,0 +1,116 @@
+{
+  "EventCategory": [
+    {
+      "id": "c101",
+      "Event_Type": "Wedding",
+      "status": "Active"
+    },
+    {
+      "id": "c102",
+      "Event_Type": "Birthday",
+      "status": "Active"
+    },
+    {
+      "id": "c103",
+      "Event_Type": "Corporate Meet",
+      "status": "Active"
+    },
+    {
+      "id": "c104",
+      "Event_Type": "Concert",
+      "status": "Active"
+    },
+    {
+      "id": "c105",
+      "Event_Type": "Seminar",
+      "status": "Deactive"
+    },
+    {
+      "id": "c106",
+      "Event_Type": "Sports Event",
+      "status": "Active"
+    },
+    {
+      "id": "c107",
+      "Event_Type": "College Fest",
+      "status": "Active"
+    },
+    {
+      "id": "19ac542755a",
+      "Event_Type": "Photography",
+      "status": "Active"
+    }
+  ],
+  "Events": [
+    {
+      "id": "e201",
+      "eventName": "Royal Wedding 2025",
+      "organizer": "Elite Events",
+      "contact": "9876543211",
+      "venue": "Grand Palace Hall",
+      "date": "2025-03-10",
+      "category": "c101",
+      "description": "A luxury wedding arrangement with 500+ guests."
+    },
+    {
+      "id": "e202",
+      "eventName": "Corporate Annual Meet",
+      "organizer": "TechWave Solutions",
+      "contact": "9988776655",
+      "venue": "Galaxy Convention Center",
+      "date": "2025-04-22",
+      "category": "c103",
+      "description": "Company’s yearly performance meeting."
+    },
+    {
+      "id": "e203",
+      "eventName": "Live Music Festival",
+      "organizer": "Star Entertainment",
+      "contact": "9090909090",
+      "venue": "City Ground",
+      "date": "2025-02-14",
+      "category": "c104",
+      "description": "Music fest with 10+ singers and DJs."
+    },
+    {
+      "id": "e204",
+      "eventName": "Kids Birthday Party",
+      "organizer": "Happy Moments",
+      "contact": "9123456789",
+      "venue": "FunZone Playhouse",
+      "date": "2025-01-27",
+      "category": "c102",
+      "description": "Cartoon theme birthday celebration."
+    },
+    {
+      "id": "e205",
+      "eventName": "Cricket Tournament",
+      "organizer": "SportsMania",
+      "contact": "9977886655",
+      "venue": "National Sports Complex",
+      "date": "2025-05-05",
+      "category": "c106",
+      "description": "Inter-college cricket league."
+    },
+    {
+      "id": "e206",
+      "eventName": "College Tech Fest",
+      "organizer": "MIT College",
+      "contact": "8796541230",
+      "venue": "MIT Auditorium",
+      "date": "2025-08-12",
+      "category": "c107",
+      "description": "Annual tech event including coding & robotics competitions."
+    },
+    {
+      "id": "19ac543d2dc",
+      "eventName": "Superhero Birthday Bash",
+      "organizer": "FunKids Team",
+      "contact": "9876543210",
+      "venue": "WonderLand Play Zone",
+      "date": "2025-11-05",
+      "category": "19ac542755a",
+      "description": "Kids' birthday party with a superhero theme and games."
+    }
+  ]
+}
